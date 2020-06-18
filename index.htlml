@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Markdown to HTML</title>
+
+  <style>
+
+    h1 {
+      color: #900c3f;
+    }
+    h2 {
+      color: #fc9d9d;
+    }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+td, th {
+  border: 1px solid #F6F8FA;
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) {
+
+  background-color: #F6F8FA;
+}
+h3 {
+  color: #ccafaf;
+}
+h4 {
+  color: #ffcac2;
+}
+h5 {
+  color: #900c3f;
+}
+h6 {
+  color: #ccafaf;
+}
+</style>
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+</head>
+
+<body>
+  <font face="Balsamic Sans, helvetica">
+
+	<h1> Ezgi Hendrickx </h1>
+
+
+<em>If you don't try you will never know</em>
+
+<p> 
+<img src="img/myphoto.jpg">
+
+</p>
+
+<h2> I'm a creative, musiclover an adventurous person who wants always challenges in her life. </h2>
+
+<table style="width:60%">
+        <tr>
+            <th>Birthday</th>
+            <th>28/02</th>
+        </tr>
+        <tr>
+            <td>Favorite color</td>
+            <td>Black & White (Minimalist colors)</td>
+        <tr>
+            <td>Favorite Food</td>
+            <td>Stuffed Eggplant 🍆 <a href="https://ezgihendrickx.github.io/orderbelekker/index.html" target="_blank">Recipe:</a> </td>
+            <tr>
+              <td>Pinneapple on pizza</td>
+              <td><input type="checkbox" id="Yes" name="Yes" value="Yes">
+<label for="Yes"> Yes </label><br>
+<input type="checkbox" id="No" name="No" value="No">
+<label for="No"> No </label><br></td></td>
+            </td>
+        </tr>
+    </table>
+
+<h3>Hobbies</h3>
+<ul> 
+<li>Tv-series &#127909;</li>
+<li>Flute &#x1F3BC;</li>
+<li>
+    <dt>Sport</dt></li>
+      <dd>- Jogging  &#127939;</dd>
+      <dd>- Swimming &#127946;</dd>
+      <dd>- Tennis &#127934;</dd>
+      <dd>- Cycling &#128692;</dd>
+
+</ul>
+
+<h4>You can always count on me when... </h4>
+
+<p>I can create beautiful features for websites because I'm using Figma. You can design mobile apps and websites also you can make prototypes in Figma. Additional you can copy a bunch of code of your design...</p>
+
+<h5>A funny story</h5>
+<p>Maybe not a really funny story but a good anekdote.</p>
+<p>When i did interrail with my friends we met with a guy in Italy. When we were going to Capri we were talking each other and one guy heard us on a ferry. He asked us which language are we speaking and then we became friend with him. We encountered him in Rome and we just learned that he was a tour guide. So he explained all the details about historical places it was amazing.</p>
+
+<h6> TL;DR </h6>
+
+<p>When i did interrail with my friends we met a guy in Capri and he became our friend and guide.</p>
+
+<p> << <a href="https://github.com/DriesDD/markdown-to-html/blob/master/index.html" target="_blank">Previous</a> || Ezgi || 
+
+  <a href="https://github.com/fawadrafique/markdown-challenge/blob/master/README.md" target="-_blank">Next</a> >>
+
+</p>
+
+</body>
+</html>
